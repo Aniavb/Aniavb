@@ -10,6 +10,6 @@ Hi, I'm Anna 👋
 •Html
 •Figma
 ## 💬 Contact me
--email: annabagdevic@gmail.com
--inst: ania.vlr
+•email: annabagdevic@gmail.com
+•inst: ania.vlr
 
