@@ -1,14 +1,14 @@
 ## Hi, I'm Anna 👋
 💫 About me:
-📚 Studying
+## 📚 Studying
 •Python
 •JavaScript
 •C++
-💻 Teck Stack
+## 💻 Teck Stack
 •Css
 •Html
 •Figma
-💬 Contact me
+## 💬 Contact me
 -email: annabagdevic@gmail.com
 -inst: ania.vlr
 
