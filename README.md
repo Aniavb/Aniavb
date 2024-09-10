@@ -1,5 +1,6 @@
-## Hi, I'm Anna 👋
-💫 About me:
+
+## 💫 About me:
+Hi, I'm Anna 👋
 ## 📚 Studying
 •Python
 •JavaScript
